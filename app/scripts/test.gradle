@@ -1,0 +1,5 @@
+dependencies {
+    testImplementation Deps.jUnit
+    androidTestImplementation Deps.runner
+    androidTestImplementation Deps.espressoCore
+}
